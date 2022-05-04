@@ -18,17 +18,12 @@
         letter-spacing: -2px;
         border-bottom: 1px solid #999;
     }
-
-    .test {
-        color: blueviolet;
-    }
-
     
-    .test:hover {
+    .highlightCool:hover {
         color: royalblue;
     }
 
-    .test:hover ~ p{
+    .highlightCool:hover ~ p{
         color: royalblue;
     }
     
